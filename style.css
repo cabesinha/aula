@@ -1,5 +1,6 @@
 body {
     background-color: rgb(144, 176, 192);
+    text-align: center;
 }
 
 p {
@@ -8,5 +9,4 @@ p {
 
 .ssk {
     font-style: italic;
-    color: rgb(0, 0, 255);
 }
