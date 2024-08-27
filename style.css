@@ -7,10 +7,14 @@ p {
     color: rgb(255, 255, 255);
 }
 
-.ssk {
+.itl {
     font-style: italic;
 }
 
-.pizza {
+.esq {
     text-align: left;
+}
+
+.icon {
+    width: 25%;
 }
