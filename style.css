@@ -1,6 +1,6 @@
 body {
     background-color: rgb(144, 176, 192);
-    text-align: center;
+    text-align: left;
 }
 
 p {
@@ -19,6 +19,11 @@ p {
     width: 25%;
 }
 
-element.style {
-    border: solid;
- }
+body {
+    color: white;
+    background: black;
+}
+
+header {
+    border: solid 2px white;
+}
