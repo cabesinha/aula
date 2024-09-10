@@ -18,3 +18,7 @@ p {
 .icon {
     width: 25%;
 }
+
+element.style {
+    border: solid;
+ }
