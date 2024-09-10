@@ -25,6 +25,8 @@ body {
 }
 
 header {
-    border: solid 2px;
+    border-bottom: solid 2px red;
     padding: 20px;
+    font-size: 20px;
+    text-decoration: none;
 }
