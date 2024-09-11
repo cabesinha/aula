@@ -5,11 +5,10 @@ body {
 }
 
 p {
-    color: rgb(255, 255, 255);
+    color: white;
 }
 
 .itl {
-    color: blue;
     font-style: italic;
 }
 
