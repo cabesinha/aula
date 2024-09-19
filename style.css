@@ -5,6 +5,10 @@ body {
     text-align: left;
 }
 
+p {
+    color: white;
+}
+
 .itl {
     font-style: italic;
 }
